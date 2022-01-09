@@ -1,6 +1,6 @@
 # work_os
 
-A new Flutter project.
+Task Management Project with flutter and firebase
 
 ## Getting Started
 
